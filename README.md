@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @peter085
+- 👋 Hi, I’m @peter
 - 👀 I’m interested in building web-sites
 - 🌱 I’m currently learning Full stack devolopment
 - 💞️ I’m looking to collaborate on any project
