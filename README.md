@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peter
-- 👀 I’m interested in building web-sites
-- 🌱 I’m currently learning Full stack devolopment
+- 👀 I’m interested in building websites
+- 🌱 I’m currently exploring frontend technologies
 - 💞️ I’m looking to collaborate on any project
 
 <!---
